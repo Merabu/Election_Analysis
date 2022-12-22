@@ -6,11 +6,10 @@
 I am tasked to help Seth and Tom submit the election audit results we have been working on. However, The election commission has requested further editing to provide the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout
 
 ## The purpose of this election analysis audit is well defined.
-Step 1: Initialize a county list, like the candidate_options list, that will hold the names of the counties.
+### Step 1: Initialize a county list, like the candidate_options list, that will hold the names of the counties.
 Initialize a dictionary, like the candidate_votes dictionary, that will hold the county as the key and the votes cast for each county as the values.
-
-
-
+county_options = []
+county_votes = {}
 
 
 Step 2:
