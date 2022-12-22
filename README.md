@@ -55,8 +55,8 @@ county_results = (
             f'{county_name}: {county_percentage:.1f}% ({votes_county:,})\n')
 
 ### Step 6e: This step will be completed in Deliverable 2.
-
-###Step 6f:Write a decision statement that determines the county with the largest vote count and then adds that county and its vote count to the variables created in step 2
+        print(county_results)
+### Step 6f:Write a decision statement that determines the county with the largest vote count and then adds that county and its vote count to the variables created in step 2
 if (votes_county > largest_votes): 
             largest_votes = votes_county
             largest_county = county_name
