@@ -66,7 +66,12 @@ largest_county_summary = (
     print(largest_county_summary)
 
 Election Audit Results
+
+
 ![Analysis_results](https://user-images.githubusercontent.com/115379848/209030682-f75e76a5-8f67-4ed4-b356-772089b7998b.JPG)
+
+
+
 ## There is a bulleted list where each election outcome is addressed.
 
 
