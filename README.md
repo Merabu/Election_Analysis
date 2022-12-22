@@ -65,8 +65,8 @@ largest_county_summary = (
         f'-------------------------\n')
     print(largest_county_summary)
 
-Election Audit Results
-
+## Election Audit Results
+The election results shows that the winner is Diana DeGette, winning with 272,892 votes which makes up 73.8% of the the total votes.
 
 ![Analysis_results](https://user-images.githubusercontent.com/115379848/209030682-f75e76a5-8f67-4ed4-b356-772089b7998b.JPG)
 
