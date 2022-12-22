@@ -3,9 +3,10 @@
 
 ## Overview of Election Audit
 
-I am tasked to help Seth and Tom submit the election audit results we have been working on. However, The election commission has requested further editing to provide the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout
-
-## The purpose of this election analysis audit is well defined.
+I am tasked to help Seth and Tom submit the election audit results we have been working on. However, The election commission has requested further editing to provide the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. In details the purpose of this election audit anlysis is to find the following results,
+overall total number of votes, Identify county with largest voter turnout,Percentage of votes by candidate, Winner total votes, Overall percentage of votes by county
+Total number of votes, Winner total vote percentage, and Winning candidate
+## Election analysis audit.
 ### Step 1: Initialize a county list, like the candidate_options list, that will hold the names of the counties.
 Initialize a dictionary, like the candidate_votes dictionary, that will hold the county as the key and the votes cast for each county as the values.
 county_options = []
@@ -71,14 +72,6 @@ The election results shows that the winner is Diana DeGette, winning with 272,89
 ![Analysis_results](https://user-images.githubusercontent.com/115379848/209030682-f75e76a5-8f67-4ed4-b356-772089b7998b.JPG)
 
 
+## Election Audit Summary
+n conclusion, The python script is more efficient and effective as compared to excel in this type of vast data. With excel different pivot tables will be needed. The Election Commission can decide to modify the script so that they can have a total number of voters who voted by mail or early voting.
 
-## There is a bulleted list where each election outcome is addressed.
-
-
-
-Election Audit Summary
-
-
-
-
-## There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
