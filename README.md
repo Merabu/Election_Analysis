@@ -11,13 +11,11 @@ Initialize a dictionary, like the candidate_votes dictionary, that will hold the
 county_options = []
 county_votes = {}
 
-
 ### Step 2:Initialize an empty string, like winning_candidate,
 that will hold the county name for the county with the largest turnout.
 Initialize a variable, like the winning_count variable, that will hold the number of votes of the county that had the largest turnout.
- argest_county = ""
- largest_votes = 0
- 
+largest_county = ""
+largest_votes = 0 
  
 
 ### Step 3: write a script that gets the county name from each row.
