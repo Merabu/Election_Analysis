@@ -73,5 +73,5 @@ The election results shows that the winner is Diana DeGette, winning with 272,89
 
 
 ## Election Audit Summary
-n conclusion, The python script is more efficient and effective as compared to excel in this type of vast data. With excel different pivot tables will be needed. The Election Commission can decide to modify the script so that they can have a total number of voters who voted by mail or early voting.
+In conclusion, The python script is more efficient and effective as compared to excel in this type of vast data. With excel different pivot tables will be needed. The Election Commission can decide to modify the script so that they can have a total number of voters who voted by mail or early voting.
 
