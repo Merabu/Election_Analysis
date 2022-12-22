@@ -3,7 +3,7 @@
 
 ## Overview of Election Audit
 
-I am tasked to help Seth and Tom submit the election audit results we have been working on. However, The election commission has requested further editing to provide the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. The purpose of this election audit anlysis is to find the following results,
+I am tasked to help Seth and Tom submit the election audit results we have been working on. However, the election commission has requested further editing to provide the vote turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. The purpose of this election audit anlysis is to find the following results,
 overall total number of votes, Identify county with largest voter turnout,Percentage of votes by candidate, Winner total votes, Overall percentage of votes by county
 Total number of votes, Winner total vote percentage, and Winning candidate
 ## Election analysis audit.
