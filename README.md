@@ -73,4 +73,7 @@ Election Audit Results
 
 Election Audit Summary
 
+
+
+
 ## There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
